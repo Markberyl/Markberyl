@@ -1,14 +1,9 @@
 ## 👋 Hey there! I'm [Mark Beryl]
 
-Passionate in writing codes💻✨, weaving magic with code. 
-### 🚧 Building the future
-I'm on a mission to build robust and scalable software that stands the test of time. Whether it's a sleek web app or a powerful machine learning model, count me in!
-
-### 🌈 Beyond the code
-Outside the realms of syntax, you'll find me [Cooking, capturing moments with my camera 📷, watching movies, or exploring ne places 🏞️].
+Passionate in writing codes💻✨, weaving magic with code
 
 ### 🤝 Let's Connect!
-Explore my enchanting repositories to witness the spellbinding projects I'm brewing. Collaborators, fellow wizards, and coding adventurers, feel free to reach out for a chat or to embark on a coding quest together. Happy coding! I'm willing to be taught and to learn from others 🌟✨
+ Collaborators, fellow wizards, and coding adventurers, feel free to reach out for a chat or to embark on a coding quest together. Happy coding! I'm willing to be taught and to learn from others 🌟✨
 
 <!--
 **Markberyl/Markberyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
