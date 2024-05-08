@@ -1,7 +1,6 @@
 ## 👋 Hey there! I'm [Mark Beryl]
 
-Passionate in writing codes💻✨, weaving magic with code. I specialize in crafting elegant solutions using **Python and Json**. Always on the lookout for the next exciting challenge that lets me push the boundaries of my knowledge 🚀.
-
+Passionate in writing codes💻✨, weaving magic with code. 
 ### 🚧 Building the future
 I'm on a mission to build robust and scalable software that stands the test of time. Whether it's a sleek web app or a powerful machine learning model, count me in!
 
