@@ -1,7 +1,4 @@
 ## 👋 Hey there!
-
-Passionate in writing codes💻✨, weaving magic with code
-
 ### 🤝 Let's Connect!
  Collaborators, fellow wizards, and coding adventurers, feel free to reach out for a chat or to embark on a coding quest together. Happy coding! I'm willing to be taught and to learn from others 🌟✨
 
