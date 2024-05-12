@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm [Mark Beryl]
+## 👋 Hey there!
 
 Passionate in writing codes💻✨, weaving magic with code
 
